@@ -98,8 +98,8 @@ Este projeto automatiza a extração, validação e notificação de informaçõ
 ---
 
 ## **Autores**
-- Desenvolvido por: [Seu Nome Aqui]  
-  Contato: [seu.email@exemplo.com]
+- Desenvolvido por: Fernanda Pereira
+  Contato: fernandaop@al.insper.edu.br
 
 ---
 
